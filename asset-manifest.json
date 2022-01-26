@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iamheena/instawarm/static/css/main.b95cbe12.css",
+    "main.js": "/iamheena/instawarm/static/js/main.661db9d2.js",
+    "static/media/2.png": "/iamheena/instawarm/static/media/2.55d4ed86f4e34e223456.png",
+    "static/media/1.jpeg": "/iamheena/instawarm/static/media/1.4c810716ab4c8953d78a.jpeg",
+    "index.html": "/iamheena/instawarm/index.html",
+    "main.b95cbe12.css.map": "/iamheena/instawarm/static/css/main.b95cbe12.css.map",
+    "main.661db9d2.js.map": "/iamheena/instawarm/static/js/main.661db9d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b95cbe12.css",
+    "static/js/main.661db9d2.js"
+  ]
+}
